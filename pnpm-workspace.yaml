@@ -1,0 +1,4 @@
+allowBuilds:
+  '@parcel/watcher': true
+minimumReleaseAgeExclude:
+  - vite-userscript-plugin@2.1.1
