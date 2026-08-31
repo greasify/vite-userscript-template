@@ -15,6 +15,8 @@ export default defineConfig({
       header: {
         name: pkg.name,
         version: pkg.version,
+        description: pkg.description,
+        icon: 'greasify.svg',
         homepage: 'https://greasify.github.io/vite-userscript-template/',
         match: 'https://example.com/',
       },
