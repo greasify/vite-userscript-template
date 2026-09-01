@@ -30,8 +30,8 @@ importers:
         specifier: 8.2.2
         version: 8.2.2(sass-embedded@1.103.1)(sass@1.103.1)(yaml@2.9.0)
       vite-userscript-plugin:
-        specifier: 2.3.0
-        version: 2.3.0(vite@8.2.2(sass-embedded@1.103.1)(sass@1.103.1)(yaml@2.9.0))
+        specifier: 2.3.1
+        version: 2.3.1(vite@8.2.2(sass-embedded@1.103.1)(sass@1.103.1)(yaml@2.9.0))
 
 packages:
 
@@ -2033,8 +2033,8 @@ packages:
     resolution: {integrity: sha512-zj/ob3UsvJGN0whEAKFp53REA5X66hvffVqoCtVQAakJKnKlH+/PcOfMoFwIG/o4rElqLv/ycAFlx8ZlXUorCg==}
     engines: {node: '>=18.12.0'}
 
-  vite-userscript-plugin@2.3.0:
-    resolution: {integrity: sha512-Kps+G7vkesDDOW90AUOwUGgz1pL18WzoYBAMFHY2PrGux6zXDC7khfsdsN3OE0jMPI7VBMN9icQC8d2ys4gVKw==}
+  vite-userscript-plugin@2.3.1:
+    resolution: {integrity: sha512-lJ8wOZFvuklRdbvG1jhPVw4yhO91aA7py3vqDOz1S3x7aUZAMPVJBOabKR6VxiM2txSssjWzh+A4IBXf8Ws7fw==}
     engines: {node: '>=22'}
     peerDependencies:
       vite: ^8.0.0
@@ -4164,7 +4164,7 @@ snapshots:
 
   verkit@0.3.2: {}
 
-  vite-userscript-plugin@2.3.0(vite@8.2.2(sass-embedded@1.103.1)(sass@1.103.1)(yaml@2.9.0)):
+  vite-userscript-plugin@2.3.1(vite@8.2.2(sass-embedded@1.103.1)(sass@1.103.1)(yaml@2.9.0)):
     dependencies:
       vite: 8.2.2(sass-embedded@1.103.1)(sass@1.103.1)(yaml@2.9.0)
 
