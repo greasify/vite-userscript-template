@@ -3,7 +3,7 @@
   "type": "module",
   "version": "0.0.0",
   "private": true,
-  "packageManager": "pnpm@11.22.0",
+  "packageManager": "pnpm@11.25.0",
   "description": "Ship a userscript like a Vite app — local HMR and a single .user.js for Tampermonkey, Greasemonkey and Violentmonkey.",
   "scripts": {
     "dev": "vite",
@@ -13,13 +13,13 @@
     "lint:fix": "eslint . --fix --cache"
   },
   "devDependencies": {
-    "@antfu/eslint-config": "9.3.0",
+    "@antfu/eslint-config": "9.5.1",
     "eslint": "9.39.5",
     "eslint-plugin-format": "2.0.1",
     "prettier-plugin-css-order": "2.2.0",
-    "sass-embedded": "1.103.1",
+    "sass-embedded": "1.104.0",
     "typescript": "6.0.3",
     "vite": "8.2.2",
-    "vite-userscript-plugin": "2.3.1"
+    "vite-userscript-plugin": "2.5.0"
   }
 }
