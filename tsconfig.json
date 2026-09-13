@@ -19,10 +19,12 @@
     "forceConsistentCasingInFileNames": true,
     "isolatedModules": true,
     "verbatimModuleSyntax": true,
-    "skipLibCheck": true
+    "skipLibCheck": true,
+    "checkJs": true
   },
   "include": [
     "src",
+    "eslint.config.js",
     "vite.config.ts"
   ]
 }

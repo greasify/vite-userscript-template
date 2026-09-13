@@ -17,7 +17,7 @@
     "eslint": "9.39.5",
     "eslint-plugin-format": "2.0.1",
     "prettier-plugin-css-order": "2.2.0",
-    "sass-embedded": "1.104.0",
+    "sass-embedded": "1.104.1",
     "typescript": "6.0.3",
     "vite": "8.2.2",
     "vite-userscript-plugin": "2.5.0"
