@@ -13,13 +13,13 @@
     "lint:fix": "eslint . --fix --cache"
   },
   "devDependencies": {
-    "@antfu/eslint-config": "9.5.1",
+    "@antfu/eslint-config": "10.0.0",
     "eslint": "9.39.5",
     "eslint-plugin-format": "2.0.1",
     "prettier-plugin-css-order": "2.2.0",
-    "sass-embedded": "1.104.1",
+    "sass-embedded": "1.106.1",
     "typescript": "6.0.3",
-    "vite": "8.2.2",
-    "vite-userscript-plugin": "2.5.0"
+    "vite": "8.3.5",
+    "vite-userscript-plugin": "2.5.3"
   }
 }
