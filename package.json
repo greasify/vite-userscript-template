@@ -20,6 +20,6 @@
     "sass-embedded": "1.107.1",
     "typescript": "6.0.3",
     "vite": "8.3.6",
-    "vite-userscript-plugin": "2.5.5"
+    "vite-userscript-plugin": "2.5.6"
   }
 }
